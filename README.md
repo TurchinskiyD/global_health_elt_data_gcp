@@ -23,7 +23,7 @@
 ![Image alt](https://github.com/TurchinskiyD/global_health_elt_data_gcp/blob/main/Airflow_Pipeline.png)
 
 
-## Looker Studio Report [clik here](https://lookerstudio.google.com/reporting/cc05e8f9-8cba-4de1-b3c0-031798483d90)
+## Looker Studio Report [звіт за посиланням](https://lookerstudio.google.com/reporting/cc05e8f9-8cba-4de1-b3c0-031798483d90)
 ![Image alt](https://github.com/TurchinskiyD/global_health_elt_data_gcp/blob/main/dashbord_australia.png)
 
 
