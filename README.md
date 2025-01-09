@@ -5,7 +5,7 @@
 Конвеєр витягує дані з Google Cloud Storage (GCS), завантажує їх у BigQuery і трансформує для створення таблиць і подань для аналізу за країнами.
 
 ## Architecture
-![Image alt]
+![Image alt] (https://github.com/TurchinskiyD/global_health_elt_data_gcp/blob/main/health_data_gcp.png)
 
 ## Workflow
 * Extract: Перевірити наявність файлу в GCS.
@@ -20,10 +20,10 @@
 * Reporting Layer: Дані оптимізовані для аналізу та звітування.
 
 ## Airflow Pipeline
-![Image alt]
+![Image alt] (https://github.com/TurchinskiyD/global_health_elt_data_gcp/blob/main/Airflow_Pipeline.png)
 
 
 ## Looker Studio Report [clik here](https://lookerstudio.google.com/reporting/cc05e8f9-8cba-4de1-b3c0-031798483d90)
-![Image alt]
+![Image alt] (https://github.com/TurchinskiyD/global_health_elt_data_gcp/blob/main/dashbord_australia.png)
 
 
